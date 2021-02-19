@@ -1,2 +1,2 @@
-# Titanic
-Analysis on Titanic visualization and Machine Learning
+# Titanic Dataset
+Analysis on Titanic Dataset,visualization and Machine Learning
