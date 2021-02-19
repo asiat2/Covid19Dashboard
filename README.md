@@ -1,2 +1,0 @@
-# Python
-#califonia data analysis
