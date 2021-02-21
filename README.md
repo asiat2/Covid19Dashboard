@@ -10,4 +10,4 @@ A python based analysis and visualization of Titanic dataset. The Python code ca
 5. Age_group
 6.  ![Optional Text](https://github.com/asiat2/Titanic/blob/main/Figure_4.png)
 7.Title
-8. ![Optional Text](https://github.com/asiat2/Titanic/blob/main/Figure_5.png)
+8. ![Optional Text](https://github.com/asiat2/Titanic/blob/main/Figure_3.png)
